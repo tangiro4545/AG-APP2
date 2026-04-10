@@ -1,4 +1,5 @@
 # Integrantes
-- Rafael
-- Fulano
-- Ciclano
+- Emilyn Viana
+- Gabriel Lopes
+- Lucas Cisterna
+- Rafael Vlademir
