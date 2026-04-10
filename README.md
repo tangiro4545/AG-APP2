@@ -1,1 +1,4 @@
-# AG-APP2
+# Integrantes
+- Rafael
+- Fulano
+- Ciclano
